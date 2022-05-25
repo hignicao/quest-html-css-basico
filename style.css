@@ -1,0 +1,17 @@
+.tabela td, th {
+    background-color: #424250;
+    color: white;
+    padding: 8px;
+}
+
+.tabela-moda th {
+    background-color: #bb86fc;
+}
+
+.tabela-casa th {
+    background-color: #00c4b4;
+}
+
+.titulo {
+    font-size: 1.2em;
+}
